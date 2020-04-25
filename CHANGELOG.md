@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/googleapis/java-asset/compare/v1.2.0...v1.3.0) (2020-04-25)
+
+
+### Features
+
+* **regen:** removes deprecated FeedName methods from v1p2beta1 client ([#157](https://www.github.com/googleapis/java-asset/issues/157)) ([6de4ad0](https://www.github.com/googleapis/java-asset/commit/6de4ad03536cc94539d99794cb27671fe6b1aee9))
+
+
+### Dependencies
+
+* update dependency com.google.guava:guava-bom to v29 ([#145](https://www.github.com/googleapis/java-asset/issues/145)) ([77d7de5](https://www.github.com/googleapis/java-asset/commit/77d7de54fda57cee74cd8ac19a1af99693723e54))
+* update dependency io.grpc:grpc-bom to v1.29.0 ([#163](https://www.github.com/googleapis/java-asset/issues/163)) ([5c5e6f1](https://www.github.com/googleapis/java-asset/commit/5c5e6f16d42150e655bd0a7c95005faafbd8a49b))
+
 ## [1.2.0](https://www.github.com/googleapis/java-asset/compare/v1.1.0...v1.2.0) (2020-04-07)
 
 
